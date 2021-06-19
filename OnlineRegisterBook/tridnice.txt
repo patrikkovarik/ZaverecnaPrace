@@ -1,0 +1,73 @@
+Teachers:
+HJ JH
+Karel Novak
+Jana Novotna
+
+Students:
+J K
+Jindrich Maly
+Andrea Svetla
+
+Subjects:
+Matematika; subject teachers([Karel Novak])
+IT; subject teachers([Jana Novotna])
+
+Textový výpis rozvrhu:
+======================
+
+Pondeli 0. hodina: TI: algoritmy
+Pondeli 1. hodina: IT: navrhove vzory
+Pondeli 2. hodina: Volno
+Pondeli 3. hodina: Volno
+Pondeli 4. hodina: Volno
+Pondeli 5. hodina: Volno
+Pondeli 6. hodina: Volno
+Pondeli 7. hodina: Volno
+Pondeli 8. hodina: Volno
+Pondeli 9. hodina: Volno
+
+Utery 0. hodina: Volno
+Utery 1. hodina: Volno
+Utery 2. hodina: Volno
+Utery 3. hodina: Volno
+Utery 4. hodina: Volno
+Utery 5. hodina: Volno
+Utery 6. hodina: Volno
+Utery 7. hodina: Volno
+Utery 8. hodina: Volno
+Utery 9. hodina: Volno
+
+Streda 0. hodina: Volno
+Streda 1. hodina: Volno
+Streda 2. hodina: Volno
+Streda 3. hodina: Volno
+Streda 4. hodina: Volno
+Streda 5. hodina: Volno
+Streda 6. hodina: Volno
+Streda 7. hodina: Volno
+Streda 8. hodina: Volno
+Streda 9. hodina: Volno
+
+Ctvrtek 0. hodina: Volno
+Ctvrtek 1. hodina: Volno
+Ctvrtek 2. hodina: Volno
+Ctvrtek 3. hodina: Volno
+Ctvrtek 4. hodina: Volno
+Ctvrtek 5. hodina: Volno
+Ctvrtek 6. hodina: Volno
+Ctvrtek 7. hodina: Volno
+Ctvrtek 8. hodina: Volno
+Ctvrtek 9. hodina: Volno
+
+Patek 0. hodina: Volno
+Patek 1. hodina: Volno
+Patek 2. hodina: Matematika: goniometrie
+Patek 3. hodina: Volno
+Patek 4. hodina: Volno
+Patek 5. hodina: Volno
+Patek 6. hodina: Volno
+Patek 7. hodina: Volno
+Patek 8. hodina: Volno
+Patek 9. hodina: Volno
+
+
